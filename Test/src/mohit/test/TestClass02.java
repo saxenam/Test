@@ -52,7 +52,7 @@ public class TestClass02 {
 				list.add(charArray[i]);
 			} else {
 				for (int j = 0 ;j<list.size();j++){
-					if(list.get(j))
+				//	if(list.get(j))
 				}
 			}
 			

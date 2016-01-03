@@ -13,7 +13,7 @@ public class TestClass {
 		List<Integer> queue = new ArrayList<>();
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
+int a=0;
 		// Size
 		String line = br.readLine();
 		qSize = Integer.parseInt(line);
